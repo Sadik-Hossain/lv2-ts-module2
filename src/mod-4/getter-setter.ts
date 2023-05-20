@@ -14,6 +14,7 @@ class MyBank {
 
   //* -------- getter ----------
   get getterBalance() {
+    // cannot receive any param
     return this.balance;
   }
 
